@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "test1",
+    "owner": "me",
+    "description": "this is a wonderful description of wonderful things that do wonderful things"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "you"
+  }
+}
